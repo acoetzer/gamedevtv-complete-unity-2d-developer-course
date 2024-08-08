@@ -56,8 +56,12 @@ You’ll find links to my course notes organized by sections, labeled as section
 #### • CREDITS & SOURCES
 ## Those who worked on the project & various source information
 
+##### • USER PROFILES
+
 <div align="left">
     <a href="https://github.com/acoetzer" target="_blank">
-        <img src="./assets/images/profile_images/burrito.jpg" alt="GitHub Profile Link, Image of a Burrito with a yellow backdrop" target="_blank" width="15%">
+        <img src="./assets/images/profile_images/burrito.jpg" alt="GitHub Profile Link for acoetzer. Profile image of a Burrito with a yellow backdrop" target="_blank" width="10%">
     </a>
 </div>
+
+##### • SOURCES
