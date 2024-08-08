@@ -1,3 +1,24 @@
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.swp
+*.DS_Store
+*.user
+*.userprefs
+*.pidb
+*.suo
+*.booproj
+*.svd
+
+
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
