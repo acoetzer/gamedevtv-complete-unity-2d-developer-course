@@ -6,7 +6,7 @@
     <br>
 <!-- Site Logo & Link -->
     <a href="https://www.gamedev.tv/" target="_blank" alt="Link to GameDev.tvs Website">
-    <img src="./assets/images/logo/GameDevLogo.png" alt="Scrimba logo" width="50%">
+    <img src="./assets/images/logo/GameDevLogo.png" alt="GameDev.tv Logo" width="50%">
     </a>
     <br>
 <!-- Course Full Name & Link to Specific Course -->
