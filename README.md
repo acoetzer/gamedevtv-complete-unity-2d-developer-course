@@ -36,19 +36,10 @@ You’ll find links to my course notes organized by sections, labeled as section
 - [assets/](./assets/)
     - [images/](./assets/images/)
         - [logo/](./assets/images/logo/)
-        - [profile_images/](./assets/images/profile_images/)
-        - [sec_1_images/](./assets/images/sec_1_images/)
-- [sec_1_introduction_and_setup](./sec_1_introduction_and_setup/)
-    - [experimenting_lesson1-5](./section_1/experimenting_lesson1-5/)
-    - [sec_1-notes.md](./sec_1_introduction_and_setup/sec_1-notes.md)
+        - [profiles/](./assets/images/profiles/)
+        - [sec_1/](./assets/images/sec_1/)
 - [README.md](./README.md)
-
-<br>
-
-<details>
-    <summary>FIND MY NOTES</summary>
-    <a href="./sec_1_introduction_and_setup/sec_1-notes.md">sec_1-notes.md</a>
-</details>
+- [sec_1_introduction_and-setup.md](./sec_1_Introduction_and_setup.md)
 
 <br>
 
