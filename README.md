@@ -51,7 +51,7 @@ You’ll find links to my course notes organized by sections, labeled as section
 
 <div align="left">
     <a href="https://github.com/acoetzer" target="_blank">
-        <img src="./assets/images/profile_images/burrito.jpg" alt="GitHub Profile Link for acoetzer. Profile image of a Burrito with a yellow backdrop" target="_blank" width="10%">
+        <img src="./assets/images/profiles/burrito.jpg" alt="GitHub Profile Link for acoetzer. Profile image of a Burrito with a yellow backdrop" target="_blank" width="10%">
     </a>
 </div>
 
