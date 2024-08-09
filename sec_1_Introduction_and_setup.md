@@ -20,7 +20,7 @@ Within Unity, we explored the various sections of the interface and how to reset
 <details>
     <summary>Inspector Menu Image</summary>
     <br>
-    <img src="../assets/images/sec_1_images/InspectorTab.png" alt="" width="100%">
+    <img src="./assets/images/sec_1/InspectorTab.png" alt="" width="100%">
 </details>
 
 <br>
@@ -30,7 +30,7 @@ We also explored the Hierarchy pane, which displays various objects in the scene
 <details>
     <summary>Hierarchy Menu Image</summary>
     <br>
-    <img src="../assets/images/sec_1_images/HierarchyMenu.gif" alt="" width="100%">
+    <img src="./assets/images/sec_1/HierarchyMenu.gif" alt="" width="100%">
 </details>
 
 <br>
@@ -43,31 +43,31 @@ We then learned about the controls and how we can manipulate the sprites on the 
 <details>
     <summary>Tools Menu Interface</summary>
     <br>
-    <img src="../assets/images/sec_1_images/ToolTab.png" alt="" width="10%">
+    <img src="./assets/images/sec_1/ToolTab.png" alt="" width="10%">
 </details>
 <br>
 <details>
     <summary><strong>W</strong> Move Tool, Moves the Object.</summary>
     <br>
-    <img src="../assets/images/sec_1_images/MoveTool.png" alt="" width="20%">
+    <img src="./assets/images/sec_1/MoveTool.png" alt="" width="20%">
 </details>
 <br>
 <details>
     <summary><strong>E</strong> Rotate Tool, Rotates the object.</summary>
     <br>
-    <img src="../assets/images/sec_1_images/RotateTool.png" alt="" width="20%">
+    <img src="./assets/images/sec_1/RotateTool.png" alt="" width="20%">
 </details>
 <br>
 <details>
     <summary><strong>R</strong> Scale Tool, Scales the Object.</summary>
     <br>
-    <img src="../assets/images/sec_1_images/ScaleTool.png" alt="" width="20%">
+    <img src="./assets/images/sec_1/ScaleTool.png" alt="" width="20%">
 </details>
 <br>
 <details>
     <summary><strong>T</strong> Rect Tool, Is like free-transform</summary>
     <br>
-    <img src="../assets/images/sec_1_images/TransformTool.png" alt="" width="20%">
+    <img src="./assets/images/sec_1/TransformTool.png" alt="" width="20%">
 </details>
 
 <br>
@@ -77,7 +77,7 @@ Shortly after, we were challenged to make a pretend platformer scene with the in
 <details>
     <summary>Create a Pretend Platformer Scene Challenge</summary>
     <br>
-    <img src="../assets/images/sec_1_images/ChallengeScene.png" alt="" width="100%">
+    <img src="./assets/images/sec_1/ChallengeScene.png" alt="" width="100%">
 </details>
 
 <br>
@@ -87,7 +87,7 @@ We then dived into creating a C# Script file with the code `Debug.Log("...")` an
 <details>
     <summary>Creating a C# Script File</summary>
     <br>
-    <img src="../assets/images/sec_1_images/MakingAScriptFileInUnity.gif" alt="" width="100%">
+    <img src="./assets/images/sec_1/MakingAScriptFileInUnity.gif" alt="" width="100%">
 </details>
 
 <br>
