@@ -7,16 +7,9 @@
     <hr>
 </div>
 
-<div align="center" width="50%">
-    <h3>
-        Introduction
-    </h3>
-    <p>
-        In this section, we learned how to download and set up both [Unity](https://unity.com/ 'Link to Unity Website') and [Visual Studio Code](https://code.visualstudio.com/ 'Link to Microsoft Visual Studio Code'). This process included configuring Unity's preferences to use Visual Studio Code as the primary code editor.
-    </p>
-</div>
+### Introduction
 
-
+In this section, we learned how to download and set up both [Unity](https://unity.com/ 'Link to Unity Website') and [Visual Studio Code](https://code.visualstudio.com/ 'Link to Microsoft Visual Studio Code'). This process included configuring Unity's preferences to use Visual Studio Code as the primary code editor.
 
 <br>
 <br>
@@ -26,7 +19,7 @@
 <hr>
 <br>
 
-Within Unity, we explored the various sections of the interface and how to reset the interface back to default within the `window > layouts` tab. Looking the Inspector pane, this is where we learned about different components and how to view and manipulate various properties such as the X, Y, Z coordinates, the color of sprites, and the Z index (or order in layer) property, which determines whether an object appears above or below another object.
+Within Unity, we explored the various sections of the interface and how to reset the interface back to default within the Window > layouts tab. Looking the Inspector pane, this is where we learned about different components and how to view and manipulate various properties such as the X, Y, Z coordinates, the color of sprites, and the Z index (or order in layer) property, which determines whether an object appears above or below another object.
 
 <!-- Image Here -->
 
