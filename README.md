@@ -37,9 +37,11 @@ You’ll find links to my course notes organized by sections, labeled as section
     - [images/](./assets/images/)
         - [logo/](./assets/images/logo/)
         - [profiles/](./assets/images/profiles/)
-        - [sec_1/](./assets/images/sec_1/)
+        - [S1/](./assets/images/S1/)
+        - [S2/](./assets/images/S2/)
 - [README.md](./README.md)
-- [sec_1_introduction_and-setup.md](./sec_1_Introduction_and_setup.md)
+- [S1IntroductionAndSetup.md](./S1IntroductionAndSetup.md)
+- [S2DeliveryDriver.md](./S2DeliveryDriver.md)
 
 <br>
 
