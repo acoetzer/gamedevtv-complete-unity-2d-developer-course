@@ -19,9 +19,15 @@ In this section, we learned how to download and set up both [Unity](https://unit
 <hr>
 <br>
 
-Within Unity, we explored the various sections of the interface and how to reset the interface back to default within the Window > layouts tab. Looking the Inspector pane, this is where we learned about different components and how to view and manipulate various properties such as the X, Y, Z coordinates, the color of sprites, and the Z index (or order in layer) property, which determines whether an object appears above or below another object.
+Within Unity, we explored the various sections of the interface and how to reset the interface back to default within the **Window** > **layouts** tab. Looking the Inspector pane, this is where we learned about different components and how to view and manipulate various properties such as the X, Y, Z coordinates, the color of sprites, and the Z index (or order in layer) property, which determines whether an object appears above or below another object.
 
-<!-- Image Here -->
+<br>
+
+<img src="./assets/images/S1/InspectorWindowPane.png" 
+    alt="Preview of the Inspector Window Pane, Highlighted in Yellow" 
+    width="30%">
+
+<br>
 
 #### Hierarchy Window Pane
 <hr>
@@ -29,7 +35,13 @@ Within Unity, we explored the various sections of the interface and how to reset
 
 We also explored the Hierarchy pane, which displays various objects in the scene, such as the camera and sprites. Additionally, we learned how to add objects to the scene by right-clicking in the Hierarchy, selecting **2D Object**, then **Sprites[^1]**, and choosing the desired shape.
 
-<!-- Image Here -->
+<br>
+
+<img src="./assets/images/S1/HierarchyWindowPane.png" 
+    alt="Preview of the Hierarchy Window Pane, Highlighted in Yellow" 
+    width="30%">
+
+<br>
 
 #### Basic Controls
 <hr>
@@ -37,17 +49,15 @@ We also explored the Hierarchy pane, which displays various objects in the scene
 
 We then learned about the controls and how we can manipulate the sprites on the stage using both the interface and keyboard shortcuts as well as panning around the scene. The keyboard shortcuts do the following:
 
-- `Tool Window Pane`
-- `W` Move Tool, Moves the Object.
-- `E` Rotate Tool, Rotates the object.
-- `R` Scale Tool, Scales the Object.
-- `T` Rect Tool, Is like free-transform
+|Keyboard Shortcut|Description|Image|
+|:---|:---|:---|
+|ToolWindowPane||<img src="./assets/images/S1/ToolWindowPane.png" alt="Preview of the Hierarchy Window Pane, Highlighted in Yellow" width="30%">|
+|**W**|Move Tool, Moves the Object.|<img src="./assets/images/S1/MoveTool.png" alt="Preview of the Move Tool, Highlighted in Yellow" width="30%">|
+|**E**|Rotate Tool, Rotates the object.|<img src="./assets/images/S1/RotateTool.png" alt="Preview of the Rotate Tool, Highlighted in Yellow" width="30%">|
+|**R**|Scale Tool, Scales the Object.|<img src="./assets/images/S1/ScaleTool.png" alt="Preview of the Scale Tool, Highlighted in Yellow" width="30%">|
+|**T**|Rect Tool, Is like free-transform|<img src="./assets/images/S1/RectTool.png" alt="Preview of the Rect Tool, Highlighted in Yellow" width="30%">|
 
-<!-- Image Here -->
-<!-- Image Here -->
-<!-- Image Here -->
-<!-- Image Here -->
-<!-- Image Here -->
+<br>
 
 #### Challenge
 <hr>
@@ -55,7 +65,13 @@ We then learned about the controls and how we can manipulate the sprites on the 
 
 Shortly after, we were challenged to make a pretend platformer scene with the information we just learn't on how to create & manipulate sprites.
 
-<!-- Image Here -->
+<br>
+
+<img src="./assets/images/S1/ChallengeScene.png" 
+    alt="Preview of the Hierarchy Window Pane, Highlighted in Yellow" 
+    width="30%">
+
+<br>
 
 #### Creating a C# Script
 <hr>
@@ -63,7 +79,13 @@ Shortly after, we were challenged to make a pretend platformer scene with the in
 
 We then dived into creating a C# Script file with the code ```Debug.Log("...")``` and then how to run the Unity game and seeing what message is printed to the console. The way we made the script file was by right clicking inside the project asset pane and selecting **Create** > **C# Script**.
 
-<!-- Image Here -->
+<br>
+
+<img src="./assets/images/S1/MakingAScriptFileInUnity.png" 
+    alt="Preview of the Hierarchy Window Pane, Highlighted in Yellow" 
+    width="30%">
+
+<br>
 
 <br>
 <br>
