@@ -7,9 +7,16 @@
     <hr>
 </div>
 
-### Introduction
+<div align="center" width="50%">
+    <h3>
+        Introduction
+    </h3>
+    <p>
+        In this section, we learned how to download and set up both [Unity](https://unity.com/ 'Link to Unity Website') and [Visual Studio Code](https://code.visualstudio.com/ 'Link to Microsoft Visual Studio Code'). This process included configuring Unity's preferences to use Visual Studio Code as the primary code editor.
+    </p>
+</div>
 
-In this section, we learned how to download and set up both [Unity](https://unity.com/ 'Link to Unity Website') and [Visual Studio Code](https://code.visualstudio.com/ 'Link to Microsoft Visual Studio Code'). This process included configuring Unity's preferences to use Visual Studio Code as the primary code editor.
+
 
 <br>
 <br>
