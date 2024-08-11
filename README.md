@@ -42,6 +42,10 @@ You’ll find links to my course notes organized by sections, labeled as section
 - [README.md](./README.md)
 - [S1IntroductionAndSetup.md](./S1IntroductionAndSetup.md)
 - [S2DeliveryDriver.md](./S2DeliveryDriver.md)
+- [S3SnowBoarder.md](./S3SnowBoarder.md)
+- [S4QuizMaster.md](./S4QuizMaster.md)
+- [S5TileVania.md](./S5TileVania.md)
+- [S6LaserDefender.md](./S6LaserDefender.md)
 
 <br>
 
