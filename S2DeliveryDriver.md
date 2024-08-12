@@ -256,6 +256,63 @@ To achieve this, we're going to use something called **SerializeField**. It will
 
 <br>
 
+### Lecture 2.7
+#### Using Input.GetAxis()
+<hr>
+<br>
+
+In this lecture, we'll be making changes so that our player can move forward, backward, and rotate left and right using input keys.
+
+#### Unity Input System
+
+An Input System converts a player's physical actions (e.g., button press, key press) into information that the game can use. **Unity** has used several different input systems over the years, each evolving and improving. Currently, Unity offers both an *old* system and a *new* system, and we will explore both in this course. For our current project (Delivery Driver), we will be using the old system.
+
+You can view these input names within Unity by clicking *Edit* > *Project Settings* and then navigating to the *Input Manager* tab.
+
+<br>
+
+<img src="./assets/images/S2/InputManager.png"
+    alt="Image shows how to open and the Input Manager for Unity"
+    width="30%">
+
+<br>
+
+As we can see, Unity is already set up to use keyboard & mouse or joystick input. One tricky aspect of the *old* system is that we need to get the names **Horizontal** & **Vertical** exactly right within our code strings. Additionally, our **Horizontal** & **Vertical** axes will range from -1 to +1.
+
+To handle this, we'll create a new float variable to store the input, and then modify the `transform.Rotate` method to accept this new variable as its argument. The code looks like this:
+
+```csharp
+
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Driver : MonoBehaviour
+{
+    [SerializeField] float steerSpeed = 0.3f;
+    [SerializeField] float moveSpeed = 0.01f;
+    // Start is called before the first frame update
+    void Start()
+    {
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        float steerAmount = Input.GetAxis("Horizontal") * steerSpeed;
+        float moveAmount = Input.GetAxis("Vertical") * moveSpeed;
+        transform.Rotate(0, 0, -steerAmount);
+        transform.Translate(0, moveAmount, 0);
+    }
+}
+```
+
+You'll notice that the new variables are placed within the `Update()` method. This is intentional, as it allows us to continuously track and update the values as the game runs. We're also multiplying `steerAmount` by `steerSpeed`, and the reason for this is tied to how the `Input.GetAxis()` function works.
+
+The `Input.GetAxis()` function returns a value of either 1, -1, or 0, depending on the direction of input (e.g., whether you're pressing the arrow keys or not). By multiplying this value by the `steerSpeed`, we scale the input to match the speed we want the car to steer. For example, if `steerSpeed` is set to `0.1f`, then pressing the key gives us `1 * 0.1f = 0.1`, meaning the car will steer at a speed of `0.1`.
+
+Additionally, we've reversed the steering direction. By default, pressing the "A" key returns `1`, which would rotate the sprite in a clockwise direction. To reverse this and make the sprite move counterclockwise instead, we simply add a `-` in front of the variable, which effectively flips positive numbers to negative and vice versa, affecting the direction of rotation.
 
 ### 💡 Footnotes
 
