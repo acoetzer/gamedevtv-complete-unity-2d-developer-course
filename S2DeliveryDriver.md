@@ -235,6 +235,27 @@ public class Driver : MonoBehaviour
 }
 ```
 
+### Lecture 2.6
+#### How to use SerializeField
+<hr>
+<br>
+
+In this lecture, we will be serializing our variables so that we can move left and right within the Inspector. Making your variables available in the Inspector will save you a lot of time, especially if someone on your team is handling the design and doesn't want to dig around in the code.
+
+To achieve this, we're going to use something called **SerializeField**. It will look something like this:
+
+```csharp
+[SerializeField] float steerSpeed = 0.1f;
+```
+
+<br>
+
+<img src="./assets/images/S2/SerializeFieldInspectorPane.png"
+    alt="Images shows Unity's inspector window pane, showcasing a SerializeField for both the move & stearSpeed variables in the script component"
+    width="30%">
+
+<br>
+
 
 ### 💡 Footnotes
 
